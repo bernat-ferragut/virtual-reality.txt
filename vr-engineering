@@ -25,5 +25,18 @@ has been the rectangle. We have stared at rectangles for long time...
 
 >> Is VR directly related with the advent of real 3D ?
 
+__VR Bird's Eye View__
+
+1-Pick a sensor on your body - a transducer - converts physical energy to digital signals.
+2-Each sensor moves through space (or changes in some way) 
+  - controled by the brain & CNC
+  - degrees of freedom - DOF > EAR has 6 DOF's - translation and rotation
+  - configuration of space
+  
+EAR> 3 DOF translation + 3 DOF rotation
+EYE> 6 DOF of the head + 2 DOF rotation (...)
+
+*** We create an 'alternate generated world' ans input to a sense to fool the brain ***
+
 
 
