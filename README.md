@@ -1,5 +1,5 @@
 # 100 questions about virtual reality
-> IF YOU ASK THE RIGHT QUESTION, YOU WILL HAVE THE ANSWER IN IT - Ramon Llull S.XIII
+> IF YOU ASK THE RIGHT QUESTION, YOU WILL HAVE THE ANSWER WITHIN - Ramon Llull S.XIII
 
 ## Philosophy
 
@@ -10,13 +10,13 @@
 > 5. How much responsability we have in creating 'healthy' and 'positive' VR worlds?
 > _________________________________________________________
 
-## Philosophy
+## Engineering
 
-> 1. Is 'Presence' the main and fundamental factor of VR?
-> 2. Is the act of 'Presence' the main connection with what is alled 'Conscioussness'?
-> 3. Should we study VR supported by techniques such Meditation?
-> 4. Can VR help us to live more presente in this world because of the 'comparison' factor?
-> 5. How much responsability we have in creating 'healthy' and 'positive' VR worlds?
+> 1. What we mean by VR?
+> 2. Are normal acts like: listening to music, reading a book, talking to a telephon or preparing an exam -  VR?
+> 3. Why do we like to listen 'statically' inside of 'in motion' inside our head?
+> 4. Should we redesign entirely the experience with new tools explicitally for having VR?
+> 5. How important is the learning factor of Vection and the Vestibulo Ocular effect in human beings?
 > _________________________________________________________
 
 
