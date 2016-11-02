@@ -5,7 +5,7 @@
 
 > 1. Is 'Presence' the main and fundamental factor of VR?
 > 2. Is the act of 'Presence' the main connection with what is alled 'Conscioussness'?
-> 3. Should we study VR supported by techniques such Meditation?
+> 3. Should we study VR supported by techniques like Meditation?
 > 4. Can VR help us to live more presente in this world because of the 'comparison' factor?
 > 5. How much responsability we have in creating 'healthy' and 'positive' VR worlds?
 > _________________________________________________________
