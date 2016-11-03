@@ -17,7 +17,7 @@
 > 3. Why do we like to listen 'statically' inside of 'in motion' inside our head?
 > 4. Should we redesign entirely the experience with new tools explicitally for having VR?
 > 5. How important is the learning factor of Vection and the Vestibulo Ocular effect in human beings?
-> 6. Why is it necessary to counterrotate the mounted stimulus when we move our head ? (Perception os stationarity)
+> 6. Why is it necessary to counterrotate the mounted stimulus when we move our head ? (stationarity)
 > _________________________________________________________
 
 
