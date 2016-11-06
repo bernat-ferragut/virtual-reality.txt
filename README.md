@@ -18,6 +18,10 @@
 > 4. Should we redesign entirely the experience with new tools explicitally for having VR?
 > 5. How important is the learning factor of Vection and the Vestibulo Ocular effect in human beings?
 > 6. Why is it necessary to counterrotate the mounted stimulus when we move our head ? (stationarity)
+
+## Google VR SDK
+
+> 1. Shouldn't we have an eye tracking object added to the GazeVR Object for perfect 3D Interaction? 
 > _________________________________________________________
 
 
