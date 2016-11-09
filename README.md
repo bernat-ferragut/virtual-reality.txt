@@ -22,7 +22,7 @@
 ## Google VR SDK
 
 > 1. Shouldn't we have an eye tracking object added to the GazeVR Object for perfect 3D Interaction? 
-> 2. Should we use an extra vector3 eyes translate to the reticule dot on the Gaze detection ?
+> 2. Should we use an extra vector3 eyes translate to the reticule dot on the Gaze detection - Rapid Relative Motion
 
 > _________________________________________________________
 
