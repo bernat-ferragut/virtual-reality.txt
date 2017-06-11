@@ -58,7 +58,7 @@ we can help to evolve the VR into the future.
     
  > 7. If we live in just ONE reality we do not have anything to COMPARE with. If we have other realities, which               areconsciouss, then we can COMPARE. Doing that we can realize that 'Consciousness' can be in several 'packages', not only in the 'body' we know and live in. A similar thing would be apply to taking drugs and experiencing another reality that seems as real as the one you live giving food for thought about whar is the REAL reality. To compare is to EXPAND the CONSCIOUSSNESS.
    
-> 8.One can feel also an almost perfect feeling of presence in very intimate moments like being with a close Family member like Mum and Dad or with your wife or girlfriend. Is that presence which in some moments can have this peaceful feeling of love what we are looking for ideally.
+> 8. One can feel also an almost perfect feeling of presence in very intimate moments like being with a close Family member like Mum and Dad or with your wife or girlfriend. Is that presence which in some moments can have this peaceful feeling of love what we are looking for ideally.
    
 > 9. Obviosuly the easy way out would be to create an experience of fear or terror in a battlefield or horror hosuse and this will be done because of the lack of intelligence and responsability we have but looking for the oppsite one, an experience that would fullfil us as humans as a whole on a rich personal level should be our aim and research in this new medium.
    
