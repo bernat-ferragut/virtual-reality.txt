@@ -52,28 +52,19 @@ we can help to evolve the VR into the future.
 
 > 5. We llive in the present imagining the future and through this being able to make prediction mainly for survival.
 
-> a. So in the present we already live in 2fold moments the present and this survival imaginary mechanism we could call
-    'natural VR' by default. VR would give as a 'space' where we could enjoy 'without the survival' natural mechanism 
-     allowing us to enjoy for real the present and with a 'Presence' comparable to Meditation of even the Hyper reality
-     of OBE's.
+> So in the present we already live in 2fold moments the present and this survival imaginary mechanism we could call 'natural VR' by default. VR would give as a 'space' where we could enjoy 'without the survival' natural mechanism allowing us to enjoy for real the present and with a 'Presence' comparable to Meditation of even the Hyper reality of OBE's.
     
-> 6. If we have a box inside another Box, Your consciousness would be in the inside box as a 'Constant' coining the Lulian
-    term and the outside box would bea variable that can change and would be your body ... or any other input that make 
-    you believe you are in another 'space. * From body to cylinder to Virtual avatar *
+> 6. If we have a box inside another Box, Your consciousness would be in the inside box as a 'Constant' coining the Lulian term and the outside box would bea variable that can change and would be your body ... or any other input that make you believe you are in another 'space. * From body to cylinder to Virtual avatar *
     
  > 7. If we live in just ONE reality we do not have anything to COMPARE with. If we have other realities, which               areconsciouss, then we can COMPARE. Doing that we can realize that 'Consciousness' can be in several 'packages', not only in the 'body' we know and live in. A similar thing would be apply to taking drugs and experiencing another reality that seems as real as the one you live giving food for thought about whar is the REAL reality. To compare is to EXPAND the CONSCIOUSSNESS.
    
-> 8.One can feel also an almost perfect feeling of presence in very intimate moments like being with a close Family member 
-   like Mum and Dad or with your wife or girlfriend. Is that presence which in some moments can have this peaceful feeling
-   of love what we are looking for ideally.
+> 8.One can feel also an almost perfect feeling of presence in very intimate moments like being with a close Family member like Mum and Dad or with your wife or girlfriend. Is that presence which in some moments can have this peaceful feeling of love what we are looking for ideally.
    
 > 9. Obviosuly the easy way out would be to create an experience of fear or terror in a battlefield or horror hosuse and this will be done because of the lack of intelligence and responsability we have but looking for the oppsite one, an experience that would fullfil us as humans as a whole on a rich personal level should be our aim and research in this new medium.
    
 > 10. We must accept the highest of the responsabilities in our creative thoughts and therefore in the creation of positive VR.
 
-> 11. In the process of buying a Nexus second hand I stumbled with the seller: a 'handicaped' man on a rollin steel chair...
-   Talking with him I realize the real Benefits VR can have with these guys. They would love it and appreciated well dev
-   software for their specific situation. My heart understood, the presence said...here there is something.
+> 11. In the process of buying a Nexus second hand I stumbled with the seller: a 'handicaped' man on a rollin steel chair... Talking with him I realize the real Benefits VR can have with these guys. They would love it and appreciated well dev software for their specific situation. My heart understood, the presence said...here there is something.
    
 > 12. Should we add some extra movement to the center Reticule to smooth the head movement ?
 
